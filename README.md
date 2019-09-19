@@ -15,4 +15,11 @@
   对多数据源提供支持（使用方法：在controller层使用注解@DataSource(dataSource="数据源名")）
 
 
-截图：
+部分截图：
+
+
+![image text](https://github.com/oy-xxh/management-SSM/blob/master/权限管理登录页面.png)
+![image text](https://github.com/oy-xxh/management-SSM/blob/master/%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86%E4%B8%BB%E9%A1%B5%E9%9D%A2.png)
+![image text](https://github.com/oy-xxh/management-SSM/blob/master/%E7%AE%A1%E7%90%86%E5%91%98%E6%93%8D%E4%BD%9C.png)
+![image text](https://github.com/oy-xxh/management-SSM/blob/master/%E8%8F%9C%E5%8D%95%E7%AE%A1%E7%90%86.png)
+![image text](https://github.com/oy-xxh/management-SSM/blob/master/%E9%80%80%E5%87%BA%E6%93%8D%E4%BD%9C.png)
